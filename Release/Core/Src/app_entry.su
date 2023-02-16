@@ -1,0 +1,13 @@
+../Core/Src/app_entry.c:333:13:APPE_SysStatusNot	0	static
+../Core/Src/app_entry.c:348:13:APPE_SysUserEvtRx	48	static
+../Core/Src/app_entry.c:90:6:MX_APPE_Config	16	static
+../Core/Src/app_entry.c:134:6:Init_Smps	0	static
+../Core/Src/app_entry.c:152:6:Init_Exti	0	static
+../Core/Src/app_entry.c:110:6:MX_APPE_Init	40	static
+../Core/Src/app_entry.c:514:6:HAL_Delay	16	static,ignoring_inline_asm
+../Core/Src/app_entry.c:543:6:MX_APPE_Process	0	static
+../Core/Src/app_entry.c:554:6:UTIL_SEQ_Idle	0	static
+../Core/Src/app_entry.c:569:6:UTIL_SEQ_EvtIdle	0	static
+../Core/Src/app_entry.c:576:6:shci_notify_asynch_evt	0	static
+../Core/Src/app_entry.c:582:6:shci_cmd_resp_release	0	static
+../Core/Src/app_entry.c:588:6:shci_cmd_resp_wait	0	static
